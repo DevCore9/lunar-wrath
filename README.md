@@ -1,2 +1,2 @@
-# lunar-s-wrath-game
+# lunar-wrath-game
 on Devoping
