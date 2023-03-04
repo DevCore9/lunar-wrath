@@ -1,2 +1,3 @@
-# lunar-wrath-game
-on Devoping
+# Lunar's Wrath
+Working in progress... 
+More updates & source code coming soon!
